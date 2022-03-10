@@ -1,6 +1,7 @@
 # firebase-yarn-workspace
 
-FYI: This is not working (when deploy) example and throw error when deploy
+FYI: This mono-repo is not working (when deploy) example and throw error when deploy.
+I only use this for reproduce this issue 👉 https://github.com/firebase/firebase-tools/issues/653
 
 ```shell
 ✔  functions: Finished running predeploy script.
